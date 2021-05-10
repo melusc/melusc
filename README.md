@@ -1,5 +1,5 @@
 # Hi there 👋
 
-I enjoy programming javascript and preact.
+I enjoy programming with javascript and preact.
 
 I'm also learning java, currently.

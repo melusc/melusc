@@ -1,5 +1,3 @@
 # Hi there 👋
 
-I enjoy programming with javascript and preact.
-
-I'm also learning java, currently.
+I enjoy programming using typescript with preact or node.
